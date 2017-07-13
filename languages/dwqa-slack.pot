@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DW Question & Answer Slack Integration\n"
+"POT-Creation-Date: 2016-08-16 15:46+0700\n"
+"PO-Revision-Date: 2016-08-16 15:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-WPHeader: dwqa-slack.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: dwqa-slack.php:107 dwqa-slack.php:237
+msgid "Question"
+msgstr ""
+
+#: dwqa-slack.php:109 dwqa-slack.php:241
+msgid "Answer"
+msgstr ""
+
+#: dwqa-slack.php:111 dwqa-slack.php:245
+msgid "Comment"
+msgstr ""
+
+#: dwqa-slack.php:116
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: dwqa-slack.php:169 dwqa-slack.php:170
+msgid "Slack Integration"
+msgstr ""
+
+#: dwqa-slack.php:232
+msgid "Webhook URL"
+msgstr ""
+
+#: dwqa-slack.php:236
+msgid "Enable Notify For"
+msgstr ""
+
+#: dwqa-slack.php:249
+msgid "Save Change"
+msgstr ""
+
+#: dwqa-slack.php:262
+msgid "Instructions:"
+msgstr ""
+
+#: dwqa-slack.php:264
+msgid "Go To https://<your-team-name>.slack.com/services/new/incoming-webhook"
+msgstr ""
+
+#: dwqa-slack.php:265
+msgid " Create a new webhook"
+msgstr ""
+
+#: dwqa-slack.php:266
+msgid "Set a channel to receive the notifications"
+msgstr ""
+
+#: dwqa-slack.php:267
+msgid "Copy the URL for the webhook\t"
+msgstr ""
+
+#: dwqa-slack.php:268
+msgid "Past the URL into the field below and click submit"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DW Question & Answer Slack Integration"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.designwall.com/wordpress/dwqa-extensions/dwqa-slack/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Send notifications of new questions and answers to a Slack channel."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DesignWall"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.designwall.com"
+msgstr ""
